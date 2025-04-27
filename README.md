@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Alison da Silva de Souza, tenho 30 anos e sou natural do Santos/SP. Concluí o ensino médio. Atualmente, estou cursando Desenvolvimento Web na plataforma Ûdemy. Sou apaixonad por tecnologia.
+Me chamo Alison da Silva de Souza, tenho 30 anos e sou natural do Santos/SP. Concluí o ensino médio. Atualmente, estou cursando Analise e Desenvolvimento de Sistena na São Judas Tadeu e Desenvolvimento Web na plataforma Ûdemy. Sou apaixonad por tecnologia.
 
 
 ---
