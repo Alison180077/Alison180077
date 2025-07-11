@@ -44,6 +44,7 @@ Me chamo **Alison da Silva de Souza**, tenho 30 anos, natural de **Santos/SP**. 
 - 🎨 [**Steph Beauty**](https://github.com/Alison180077/StephBeauty) – Loja de cosméticos com carrinho, SPA e design moderno.  
 - 💬 [**Vínculo**](https://github.com/Alison180077/Vinculo) – Rede social emocional com IA da empatia e modo anônimo.  
 - 📊 [**Controle de Clientes**](https://github.com/Alison180077/ControleClientes) – Sistema com recibos em PDF, modo escuro e login.
+- 🎹 [**Piano Virtual**] (https://alison180077.github.io/piano-dio/). - Piano-Virtual 
 
 ---
 
